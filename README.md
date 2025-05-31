@@ -1,5 +1,6 @@
 <!-- banner -->
-#Hi, I'm Potter 👋
+# Hi, I'm Potter. 👋
+- 🔭 I’m currently studying at NTUST.
 
   🔭 I’m currently studying at NTUST.
 <!-- 自訂橫幅圖片（如不需要可刪）-->
@@ -21,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xizhuwang&layout=compact&langs_count=8&bg_color=0D1117&title_color=1E90FF&text_color=79C0FF&icon_color=1E90FF&border_color=30363D" alt="Top Langs"/>
 </p>
 
-#✨ Recent Works
+# ✨ Recent Works
 <details>
   <summary>Click to expand</summary>
 
