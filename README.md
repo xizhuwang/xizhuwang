@@ -1,8 +1,32 @@
 <!-- banner -->
 # Hi, I'm Potter. 👋
-- 🔭 I’m currently studying at NTUST.
+🔭  I’m a first-year M.S. student in the Graduate Institute of Electrical Engineering (Track D) at **National Taiwan University of Science and Technology (NTUST)**.  
+🎓  I earned my B.S. in Electrical Engineering from NTUST with a **double major in Finance**.  
+🧑‍🔬  My undergraduate thesis focused on **reliability-enhancement techniques for advanced NAND flash memory**.  
+🚀  Current research interests: **In-Memory Computing architectures, AXI bus optimization, and AI accelerators for Large Language Models**.  
+⚙️  Comfortable with **Xilinx FPGAs**, the **ARM M-series**, and the full **ASIC/IC design flow**.
 
-  🔭 I’m currently studying at NTUST.
+### Experience
+- 2025 &mdash; Teaching Assistant, **Computer Organization**, NTUST  
+- 2024 &mdash; Teaching Assistant, **Fund Management**, NTUST  
+- 2021 &mdash; Hardware Intern, **Yunyun Technology**  
+- 2020 &mdash; Organizer / Counselor, NTUST EE Winter & Summer Camps  
+
+### Skills & Tools
+**1. Hardware Design**  
+- Verilog / SystemVerilog, Jasper **Formal Property Verification**  
+- Design Compiler · IC Compiler II · Innovus · Memory Generator · BIST  
+- APR flows on **90 nm / 16 nm ADFP**  
+- **Catapult HLS** for AI-hardware exploration  
+- Design, analysis, and testing of emerging **non-volatile memory arrays**
+
+**2. HW/SW Scheduling & FPGA Optimization**  
+- **Vivado** · **Vitis HLS** for parallel acceleration  
+- Platforms: **ZCU102**, **Pynq-Z2**, **ARM MPS3**
+
+**3. C++ / Python**  
+- RAM simulators, CNN & SNN training pipelines, LLM inference workflows
+
 <!-- 自訂橫幅圖片（如不需要可刪）-->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2314fc08-044a-4d78-ace4-91ec6da2475d" alt="Banner">
