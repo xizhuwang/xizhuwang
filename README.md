@@ -7,12 +7,18 @@ Hi, I'm Potter 👋
   <img src="https://github.com/user-attachments/assets/2314fc08-044a-4d78-ace4-91ec6da2475d" alt="Banner">
 </p>
 
-<!-- 個人統計 -->
+<!-- 個人統計（藍黑系：black-ice）-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xizhuwang&show_icons=true&theme=tokyonight" alt="Potter's GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xizhuwang&theme=tokyonight" alt="GitHub streak">
-  <!-- 最常用語言卡片 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=xizhuwang&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- 總覽 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=xizhuwang&show_icons=true&theme=black-ice" alt="Potter's GitHub stats"/>
+
+  <!-- 連續打卡 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xizhuwang&theme=black-ice" alt="GitHub streak"/>
+</p>
+
+<!-- 主要語言 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xizhuwang&layout=compact&langs_count=8&theme=black-ice" alt="Top Langs"/>
 </p>
 ## ✨ Recent Works
 <details>
