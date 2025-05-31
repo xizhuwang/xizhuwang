@@ -1,17 +1,12 @@
 <!-- banner -->
 # Hi, I'm Potter. 👋
-🔭  I’m a first-year M.S. student in the Graduate Institute of Electrical Engineering (Track D) at **National Taiwan University of Science and Technology (NTUST)**.  
-🎓  I earned my B.S. in Electrical Engineering from NTUST with a **double major in Finance**.  
-🧑‍🔬  My undergraduate thesis focused on **reliability-enhancement techniques for advanced NAND flash memory**.  
-🚀  Current research interests: **In-Memory Computing architectures, AXI bus optimization, and AI accelerators for Large Language Models**.  
-⚙️  Comfortable with **Xilinx FPGAs**, the **ARM M-series**, and the full **ASIC/IC design flow**.
-
+🔭  I’m a M.S. student in the Graduate Institute of Electrical Engineering  at **NTUST**.  
+    I earned my B.S. in Electrical Engineering from NTUST with a **double major in Finance**.  
+    Current research interests: **In-Memory Computing architectures, AXI bus optimization, and AI accelerators for Large Language Models**.  
+    Comfortable with **Xilinx FPGAs**, the **ARM M-series**, and the full **ASIC/IC design flow**.
 ### Experience
 - 2025 &mdash; Teaching Assistant, **Computer Organization**, NTUST  
 - 2024 &mdash; Teaching Assistant, **Fund Management**, NTUST  
-- 2021 &mdash; Hardware Intern, **Yunyun Technology**  
-- 2020 &mdash; Organizer / Counselor, NTUST EE Winter & Summer Camps  
-
 ### Skills & Tools
 **1. Hardware Design**  
 - Verilog / SystemVerilog, Jasper **Formal Property Verification**  
@@ -19,7 +14,6 @@
 - APR flows on **90 nm / 16 nm ADFP**  
 - **Catapult HLS** for AI-hardware exploration  
 - Design, analysis, and testing of emerging **non-volatile memory arrays**
-
 **2. HW/SW Scheduling & FPGA Optimization**  
 - **Vivado** · **Vitis HLS** for parallel acceleration  
 - Platforms: **ZCU102**, **Pynq-Z2**, **ARM MPS3**
