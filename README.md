@@ -1,5 +1,9 @@
 <!-- banner -->
 # Hi, I'm Potter. 👋
+<!-- 自訂橫幅圖片（如不需要可刪）-->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2314fc08-044a-4d78-ace4-91ec6da2475d" alt="Banner">
+</p>
 🔭  I’m a M.S. student in the Graduate Institute of Electrical Engineering  at **NTUST**.  
     I earned my B.S. in Electrical Engineering from NTUST with a **double major in Finance**.  
     Current research interests: **In-Memory Computing architectures, AXI bus optimization, and AI accelerators for Large Language Models**.  
@@ -20,12 +24,6 @@
 
 **3. C++ / Python**  
 - RAM simulators, CNN & SNN training pipelines, LLM inference workflows
-
-<!-- 自訂橫幅圖片（如不需要可刪）-->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2314fc08-044a-4d78-ace4-91ec6da2475d" alt="Banner">
-</p>
-
 <!-- 個人統計（自訂 HEX 色碼）-->
 <p align="center">
   <!-- 總覽 -->
