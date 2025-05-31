@@ -1,16 +1,20 @@
 <!-- banner -->
 # Hi, I'm Potter. 👋
+
 <!-- 自訂橫幅圖片（如不需要可刪）-->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2314fc08-044a-4d78-ace4-91ec6da2475d" alt="Banner">
 </p>
+
 🔭  I’m a M.S. student in the Graduate Institute of Electrical Engineering  at **NTUST**.  
     I earned my B.S. in Electrical Engineering from NTUST with a **double major in Finance**.  
     Current research interests: **In-Memory Computing architectures, AXI bus optimization, and AI accelerators for Large Language Models**.  
     Comfortable with **Xilinx FPGAs**, the **ARM M-series**, and the full **ASIC/IC design flow**.
+    
 ### Experience
 - 2025 &mdash; Teaching Assistant, **Computer Organization**, NTUST  
-- 2024 &mdash; Teaching Assistant, **Fund Management**, NTUST  
+- 2024 &mdash; Teaching Assistant, **Fund Management**, NTUST
+  
 ### Skills & Tools
 **1. Hardware Design**  
 - Verilog / SystemVerilog, Jasper **Formal Property Verification**  
@@ -18,6 +22,7 @@
 - APR flows on **90 nm / 16 nm ADFP**  
 - **Catapult HLS** for AI-hardware exploration  
 - Design, analysis, and testing of emerging **non-volatile memory arrays**
+  
 **2. HW/SW Scheduling & FPGA Optimization**  
 - **Vivado** · **Vitis HLS** for parallel acceleration  
 - Platforms: **ZCU102**, **Pynq-Z2**, **ARM MPS3**
