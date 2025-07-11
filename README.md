@@ -1,23 +1,27 @@
 <!-- banner -->
-# Hi, I'm Potter. 👋
+# Hi, I'm Potter 👋
 
-<!--<p align="center">-->
- <!--<img src="https://github.com/user-attachments/assets/2314fc08-044a-4d78-ace4-91ec6da2475d" alt="Banner">-->
-<!--</p>-->
-
-<!-- 個人統計（自訂 HEX 色碼）-->
+<!-- Banner placeholder -->
+<!--
 <p align="center">
-  <!-- 總覽 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=xizhuwang&show_icons=true&bg_color=0D1117&title_color=1E90FF&text_color=79C0FF&icon_color=1E90FF&border_color=30363D" alt="Potter's GitHub stats"/>
+  <img src="https://github.com/user-attachments/assets/2314fc08-044a-4d78-ace4-91ec6da2475d" alt="Banner">
+</p>
+-->
 
-  <!-- 連續打卡 -->
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xizhuwang&show_icons=true&bg_color=0D1117&title_color=1E90FF&text_color=79C0FF&icon_color=1E90FF&border_color=30363D" alt="Potter's GitHub stats"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xizhuwang&hide_border=true&background=0D1117&currStreakLabel=1E90FF&currStreakNum=79C0FF&sideNums=79C0FF&sideLabels=1E90FF&dates=AAAAAA" alt="GitHub streak"/>
 </p>
 
-<!-- 主要語言 -->
+<!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xizhuwang&layout=compact&langs_count=8&bg_color=0D1117&title_color=1E90FF&text_color=79C0FF&icon_color=1E90FF&border_color=30363D" alt="Top Langs"/>
 </p>
+
 
 🔭  I’m a M.S. student in the Graduate Institute of Electrical Engineering  at **NTUST**.  
     I earned my B.S. in Electrical Engineering from NTUST with a **double major in Finance**.  
