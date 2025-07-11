@@ -1,9 +1,9 @@
 <!-- banner -->
 # Hi, I'm Potter. 👋
-<!-- 自訂橫幅圖片（如不需要可刪）-->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2314fc08-044a-4d78-ace4-91ec6da2475d" alt="Banner">
-</p>
+
+//<p align="center">
+  //<img src="https://github.com/user-attachments/assets/2314fc08-044a-4d78-ace4-91ec6da2475d" alt="Banner">
+//</p>
 
 <!-- 個人統計（自訂 HEX 色碼）-->
 <p align="center">
