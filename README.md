@@ -27,10 +27,9 @@
 - 2025 &mdash; Teaching Assistant, **Computer Organization**, NTUST  
 - 2024 &mdash; Teaching Assistant, **Fund Management**, NTUST
   
-# ✨ Recent Works
+# ✨Connect
 <details>
   <summary>Click to expand</summary>
 - 🌱 I’m learning **Embedded System** and **Digital Design**  
-- 📫 How to reach me: <m11307409@mail.ntust.edu.tw>
-
+- 📫 How to reach me: m11307409@mail.ntust.edu.tw
 </details>
