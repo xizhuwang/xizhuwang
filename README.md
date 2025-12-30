@@ -6,14 +6,7 @@
 🔭  I’m a M.S. student in the Graduate Institute of Electrical Engineering  at **NTUST**.   
     Current research interests: **Processing-in-Memory Computing Architectures, AXI bus optimization, and AI accelerators for Large Language Models**.  
     Comfortable with **Xilinx FPGAs** and the full **ASIC/IC design flow**.
-    
-### Publication
-- 2026 &mdash; ACM SAC, Adaptive  Multi-User Scheduling for Large Language Model Inference on HBM-Based  Processing-in-Memory Accelerators
-  
-### Experience
-- 2025 &mdash; Teaching Assistant, **Computer Organization**, NTUST  
-- 2024 &mdash; Teaching Assistant, **Fund Management**, NTUST
-  
+
 ### Skills & Tools
 **1. Hardware Design**  
 - Verilog , Formal Property Verification
@@ -26,7 +19,14 @@
 - Tools: **Vivado**, **Vitis HLS** , C++ , Python , Shell Script
 - Platforms: **ZCU102**, **Pynq-Z2**, **Ramulator2.0**,
 - Applications: CNN & SNN training pipelines, LLM inference workflows
-
+    
+### Publication
+- 2026 &mdash; ACM SAC, Adaptive  Multi-User Scheduling for Large Language Model Inference on HBM-Based  Processing-in-Memory Accelerators
+  
+### Experience
+- 2025 &mdash; Teaching Assistant, **Computer Organization**, NTUST  
+- 2024 &mdash; Teaching Assistant, **Fund Management**, NTUST
+  
 # ✨ Recent Works
 <details>
   <summary>Click to expand</summary>
