@@ -4,8 +4,8 @@
 <!-- Banner placeholder -->
 
 🔭  I’m a M.S. student in the Graduate Institute of Electrical Engineering  at **NTUST**.   
-    Current research interests: **Processing-in-Memory Computing Architectures, AXI bus optimization, and AI accelerators for Large Language Models**.  
-    Comfortable with **Xilinx FPGAs** and the full **ASIC/IC design flow**.
+    Current research interests: **Processing-in-Memory Computing Architectures**,**GPGPU**, **AXI Bus** , and **AI accelerator**.  
+🌱  Comfortable with *FPGAs** and the full **ASIC/IC design flow**.
 
 ### Skills & Tools
 **1. Hardware Design**  
